@@ -1,1 +1,2 @@
-Bonjour!
+Bonjour !
+Test avec git-it !
